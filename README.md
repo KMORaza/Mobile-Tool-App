@@ -2,4 +2,4 @@
 
 **I wrote this app only because I was getting bored while on a vacation long ago so this app doesn't have sophisticated functionalities.**
 
-![](https://github.com/KMORaza/Mobile-Tool-App/blob/main/screen.png)
+![](https://github.com/KMORaza/Mobile-Tool-App/blob/main/screenshot.png)
